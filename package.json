@@ -1,0 +1,16 @@
+{
+  "name": "Our-Theme",
+  "description": "Website Theme",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "async": "latest",
+    "bcrypt-nodejs": "latest",
+    "connect-flash": "0.1.1",
+    "ejs": "0.8.5",
+    "express": "3.4.8",
+    "now": ">=0.0.1",
+    "passport": "0.2.0",
+    "passport-local": "0.1.6"
+  }
+}
